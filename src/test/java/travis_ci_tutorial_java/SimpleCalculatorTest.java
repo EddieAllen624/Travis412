@@ -19,7 +19,7 @@ public class SimpleCalculatorTest {
 	}
 	@Test
 	public void testMultiply() {
-		SimpleCalcultor calc = new SimpleCalculator();
+		SimpleCalculator calc = new SimpleCalculator();
 		assertEquals(10, calc.multiply(5, 2));
 	}
 	
